@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="70mm"
+   height="70mm"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="Dallas_Cowboys.svg"
+   viewBox="0 0 70 70"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:inkstitch="http://inkstitch.org/namespace">
+  <metadata
+     id="metadata4">
+    <inkstitch:min_stitch_len_mm>0</inkstitch:min_stitch_len_mm>
+    <inkstitch:collapse_len_mm>3</inkstitch:collapse_len_mm>
+    <inkstitch:inkstitch_svg_version>1</inkstitch:inkstitch_svg_version>
+  </metadata>
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.98019708"
+     inkscape:cx="374.9246"
+     inkscape:cy="221.89415"
+     inkscape:window-width="1680"
+     inkscape:window-height="924"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     transform="matrix(0.15642275,0,0,0.15642275,1.0581931,4.683203)">
+    <path
+       d="M 215.99934,68.271795 180.363,177.95006 H 65.040326 l 93.298884,67.78587 -35.63634,109.67826 93.29647,-67.78587 93.29888,67.78587 -35.63634,-109.67826 93.29647,-67.78587 H 251.63569 Z"
+       style="display:inline;fill:#002244;fill-rule:nonzero"
+       id="path4" />
+    <path
+       id="path1"
+       d="M 215.99961,1.2829775 165.32269,157.25086 H 1.3288533 L 134.0039,253.64417 83.326976,409.60964 215.99961,313.21634 348.67465,409.60964 297.99773,253.64417 430.67037,157.25086 H 266.67653 Z m 0,37.7048805 42.2103,129.913032 H 394.81004 L 284.29847,249.19173 326.51118,379.10717 215.99961,298.81634 105.48804,379.10717 147.70075,249.19173 37.189186,168.90089 H 173.78931 Z"
+       style="fill:#002244;fill-opacity:1" />
+    <path
+       id="path2"
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       d="M 215.99961,38.987858 173.78931,168.90089 H 37.189186 L 147.70075,249.19173 105.48804,379.10717 215.99961,298.81634 326.51118,379.10717 284.29847,249.19173 394.81004,168.90089 H 258.20991 Z m 0,29.284012 35.63639,109.67839 H 366.9588 L 273.66222,245.73621 309.2986,355.4146 215.99961,287.62865 122.70303,355.4146 158.33941,245.73621 65.040422,177.95026 H 180.36322 Z" />
+  </g>
+</svg>

@@ -1,2 +1,2 @@
 # Stitch
-Inkstitch svg files
+Inkstitch svg files for embroidering

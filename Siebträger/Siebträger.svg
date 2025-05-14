@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   font-family="inherit"
+   version="1.1"
+   viewBox="0 0 100 100"
+   width="100mm"
+   height="100mm"
+   zoomAndPan="disable"
+   overflow="hidden"
+   localization="none"
+   id="svg1"
+   sodipodi:docname="Siebträger.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:inkstitch="http://inkstitch.org/namespace">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     inkscape:zoom="6.8850757"
+     inkscape:cx="88.016462"
+     inkscape:cy="312.92321"
+     inkscape:window-width="1680"
+     inkscape:window-height="924"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="neue Ebene 1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 466,0,1|#Line 466_(1),0,1"
+       id="path-effect54"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 403,0,1|#Line 402,0,1"
+       id="path-effect20"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path1,0,1|#Beziercurve 214_(2),0,1|#Beziercurve 214_(1),0,1|#Beziercurve 214,0,1|#Line 458,0,1"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Beziercurve 214_(1),0,1|#Line 458,0,1|#path1,0,1|#Beziercurve 214_(2),0,1|#Beziercurve 214,0,1"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path1,0,1|#Beziercurve 214_(2),0,1|#Beziercurve 214_(1),0,1|#Beziercurve 214,0,1|#Line 458,0,1"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 461,0,1|#Line 458,0,1|#Beziercurve 214_(1),0,1|#path1,0,1"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path1,0,1|#path9,0,1|#Line 458,0,1|#Line 461,0,1"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Beziercurve 214_(1),0,1|#Beziercurve 214_(2),0,1|#path8,0,1|#Beziercurve 214,0,1"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path8,0,1|#Beziercurve 214_(2),0,1|#Beziercurve 214_(1),0,1|#Beziercurve 214,0,1"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Rectangle 1204,0,1"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 457,0,1|#Line 456,0,1|#path15,0,1"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path15,0,1|#path14,0,1|#Line 400,0,1"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 403,0,1|#Line 402,0,1"
+       id="path-effect17"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 401,0,1|#Line 497_(1),0,1"
+       id="path-effect21"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 497,0,1|#Line 497_(1),0,1"
+       id="path-effect25"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path28,0,1|#path24,0,1"
+       id="path-effect29"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 404_(1),0,1|#Line 404,0,1|#Arc 195,0,1"
+       id="path-effect31"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 509,0,1|#Line 510,0,1"
+       id="path-effect33"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Tropfen,0,1"
+       id="path-effect44"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Beziercurve 67_(1),0,1|#Beziercurve 67,0,1"
+       id="path-effect45"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Arc 2_(2),0,1|#Line 396,0,1|#Arc 2_(1),0,1"
+       id="path-effect49"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#Line 466,0,1|#Line 466_(1),0,1"
+       id="path-effect51"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+    <symbol
+       id="inkstitch_ignore_layer">
+      <title
+         id="title9694">Ignore entire layer when generating stitch plan</title>
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.06501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.19504, 3.19504;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 9.2465269,-4.9265995e-6 C 9.246525,5.1067241 5.1067028,9.2465451 -2.615882e-5,9.2465451 -5.1067554,9.2465451 -9.2465782,5.1067241 -9.2465801,-4.9265995e-6 -9.24658,-2.4523429 -8.2723922,-4.8042399 -6.538327,-6.5383059 c 1.7340653,-1.734065 4.0859624,-2.708252 6.53830084118,-2.708252 5.10673015882,0 9.24655285882,4.139823 9.24655305882,9.2465529734005 0,0 0,0 0,0"
+         id="inkstitch_path25368-7" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="color:#000000;fill:#d5d5d5;fill-opacity:1;fill-rule:evenodd;stroke:#5a5a5a;stroke-width:0.6333;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
+         d="M 4,4.452769 1.46667,1.286102 H -5.5 l 2.53333,3.166667 z"
+         id="use5800" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="color:#000000;opacity:0.5;fill:#d5d5d5;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:0.633394;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
+         d="M 4,2.552769 1.46667,-0.613898 H -5.5 l 2.53333,3.166667 z"
+         id="use5864" />
+      <g
+         id="g5771">
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           style="fill:#aa0000;fill-rule:evenodd;stroke:#aa0000;stroke-width:1px"
+           d="m -1.0666699,-5.0472339 h 4.4333333 l 0.6333333,0.6333333 V 0.01943274 L 3.3666634,0.65276607 H -1.0666699 L -1.7000032,0.01943274 V -4.4139006 Z"
+           id="path8011" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path8023"
+           d="m -0.43333658,-3.8755672 c 0,0 3.16666668,3.16666661 3.16666668,3.16666661"
+           style="fill:none;stroke:#ffffff;stroke-width:1.7" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path8025"
+           d="m 2.7333301,-3.8755672 c 0,0 -3.16666668,3.16666661 -3.16666668,3.16666661"
+           style="fill:none;stroke:#ffffff;stroke-width:1.8;stroke-linejoin:round" />
+      </g>
+    </symbol>
+  </defs>
+  <metadata
+     id="metadata1">
+    <inkstitch:min_stitch_len_mm>0</inkstitch:min_stitch_len_mm>
+    <inkstitch:collapse_len_mm>3</inkstitch:collapse_len_mm>
+    <inkstitch:inkstitch_svg_version>1</inkstitch:inkstitch_svg_version>
+  </metadata>
+  <g
+     visibility="visible"
+     id="neue Ebene 1"
+     style="visibility:visible"
+     transform="matrix(9.70898 0 0 9.70898 3.01562 4.09811)">
+    <g
+       id="Fuellung"
+       style="display:inline;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none">
+      <g
+         id="g34"
+         style="fill:#8a8b8e">
+        <path
+           id="path17_1"
+           style="visibility:visible;fill:#8a8b8e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m 47.24414,173.85742 v 28.34766 l 15.117189,17.00781 h 5.669922 5.669923 L 60.472657,202.20508 v -28.34766 z"
+           transform="scale(0.0264583, 0.0264583)"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+        <path
+           id="path17_2"
+           style="visibility:visible;fill:#8a8b8e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m 66.14258,173.85742 v 26.45704 l 15.117188,18.89843 h 39.685542 5.66797 l 8.40039,-9.44921 6.71875,-7.5586 v -17.00781 -11.33985 z"
+           transform="scale(0.0264583, 0.0264583)"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+      </g>
+      <g
+         id="g59"
+         style="fill:#2f3032">
+        <path
+           id="path10_2"
+           style="display:inline;fill:#2f3032;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m 332.62631,179.25006 v 36.35359 0.10709 l 3.97776,-1.6376 1.61409,-0.89846 1.34769,-0.95591 1.06823,-1.00816 0.7757,-1.06039 0.47535,-1.11262 0.16193,-1.16486 v -20.78729 l -0.16193,-1.16225 -0.47535,-1.11262 -0.7757,-1.06039 -1.06823,-1.00816 -1.34769,-0.95591 -1.61409,-0.89846 z"
+           transform="scale(0.0264583, 0.0264583)"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:angle="90"
+           inkstitch:fill_underlay_angle=""
+           inkstitch:fill_underlay_row_spacing_mm=""
+           inkstitch:fill_underlay="True" />
+        <path
+           d="m 3.8999901,4.6497598 h 0.3 v 1.1502399 h -0.3 z"
+           id="path13"
+           style="display:inline;visibility:visible;fill:#2f3032;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:angle="90"
+           inkstitch:fill_underlay_angle=""
+           inkstitch:fill_underlay_row_spacing_mm="" />
+        <path
+           id="path32"
+           style="visibility:visible;fill:#2f3032;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 2.2000208,5.9999955 V 6.35 h 0.149965 0.3000333 0.149965 V 5.9999955 Z"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           sodipodi:nodetypes="ccccccc"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+      </g>
+      <g
+         id="g56"
+         style="fill:#724f46">
+        <path
+           id="path33"
+           style="visibility:visible;fill:#724f46;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01"
+           d="m 1.2499736,4.3999667 v 0.1997665 l 2.5000333,0.00118 V 4.3999667 Z"
+           sodipodi:nodetypes="ccccc"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+        <path
+           id="path52"
+           style="display:inline;visibility:visible;fill:#724f46;fill-opacity:1;stroke:none"
+           d="M 2.099949,2.999995 C 2.066618,3.066657 2.033287,3.1333191 1.999956,3.1999811 c 0.3333562,0 0.6667125,0 1.0000687,0 C 2.9666705,3.1333191 2.9333165,3.066657 2.8999624,2.999995 c -0.2666711,0 -0.5333423,0 -0.8000134,0 z"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+      </g>
+      <g
+         id="g57"
+         style="fill:#cdbfac">
+        <path
+           id="path29"
+           style="display:inline;visibility:visible;fill:#cdbfac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4"
+           d="m 1.7999698,5.8000075 c 0,0.066662 0,0.1333241 0,0.1999862 0.4666803,0 0.9333605,0 1.4000408,0 0,-0.066662 0,-0.1333241 0,-0.1999862 -0.4666803,0 -0.9333605,0 -1.4000408,0 z"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+        <path
+           d="m 1.75,4.6 v 0.7 l 0.4,0.5 H 1.95 L 1.6,5.35 V 4.6 Z"
+           id="path19"
+           style="display:inline;visibility:visible;fill:#cdbfac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.05"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:fill_underlay_angle=""
+           inkstitch:angle="90"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:lock_end="half_stitch"
+           inkstitch:auto_fill="True"
+           inkstitch:fill_underlay_row_spacing_mm=""
+           inkstitch:end_row_spacing_mm="" />
+        <path
+           d="M 3.5701287,5.5500002 H 3.9000001 V 4.9000001 H 3.7461367 L 3.75,5.35 3.5722381,5.5499822 Z"
+           id="path16"
+           style="visibility:visible;fill:#cdbfac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.05"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:fill_underlay_angle=""
+           inkstitch:angle="90"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:lock_end="half_stitch"
+           inkstitch:auto_fill="True"
+           inkstitch:fill_underlay_row_spacing_mm=""
+           inkstitch:end_row_spacing_mm="" />
+        <path
+           id="path47"
+           style="visibility:visible;fill:#cdbfac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01"
+           d="m 1.35,3.6 h 2.3 L 3,3.2 H 2 Z"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+      </g>
+      <g
+         id="g58" />
+      <g
+         id="g55"
+         style="fill:#d5a768">
+        <path
+           d="m 2.499999,7.899998 c 0.2,0 0.35,-0.3 0,-0.9 C 2.15,7.6 2.3,7.9 2.5,7.9 Z"
+           id="path45"
+           style="visibility:visible;fill:#d5a768;fill-opacity:1;stroke:none"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.05"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:fill_underlay_angle=""
+           inkstitch:angle="90"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:lock_end="half_stitch"
+           inkstitch:auto_fill="True"
+           inkstitch:fill_underlay_row_spacing_mm=""
+           inkstitch:end_row_spacing_mm="" />
+        <path
+           d="m 8.8007355,5.7073239 c -0.4981758,0.1705068 -1.6505715,0.1827045 -2.600736,-0.00733 -1.249999,-0.300003 -1.749999,0.149997 -2,-0.100003 L 4.2,4.85 C 4.45,4.6 4.95,5.05 6.2,4.75 7.1501671,4.5599659 8.3025682,4.5721643 8.8007412,4.74267 Z"
+           id="path12"
+           style="display:inline;fill:#d5a768;fill-opacity:1;stroke:none"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+        <path
+           id="path46"
+           style="visibility:visible;fill:#d5a768;fill-opacity:1;stroke:none;stroke-width:0.01"
+           d="m 1.35,3.5999999 h 2.3 v 0.45 h -2.3 z"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+        <path
+           id="path50"
+           style="visibility:visible;fill:#d5a768;fill-opacity:1;stroke:none"
+           d="m 1.8999874,1.8999874 v 0.1999878 l 4.651e-4,0.00217 A 1.137229,1.137229 0 0 1 2.09889,3.0000236 H 2.9011149 C 2.8374135,2.6854009 2.909675,2.3584611 3.1000175,2.0999752 V 1.8999874 Z"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+        <path
+           id="path48"
+           style="visibility:visible;fill:#d5a768;fill-opacity:1;stroke:none;stroke-width:0.01"
+           d="M 3.1,1.9 V 1.5 H 1.9 v 0.4"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+        <path
+           d="m 1,0.5730001 a 0.7500004,0.7500004 0 0 1 1.2,0"
+           id="path49"
+           transform="translate(0.9, 0.927)"
+           style="visibility:visible;fill:#d5a768;fill-opacity:1;stroke:none;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4"
+           inkstitch:max_stitch_length_mm="1.5"
+           inkstitch:lock_start="half_stitch"
+           inkstitch:expand_mm="-0.1"
+           inkstitch:fill_underlay_inset_mm="0.1"
+           inkstitch:fill_underlay="True"
+           inkstitch:fill_underlay_max_stitch_length_mm=""
+           inkstitch:fill_underlay_skip_last="False"
+           inkstitch:row_spacing_mm="0.4"
+           inkstitch:fill_underlay_row_spacing_mm="" />
+      </g>
+    </g>
+    <g
+       id="Schlegel"
+       style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         id="Rectangle 1190"
+         style="display:inline;fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1.35,3.5999999 h 2.3 v 0.45 h -2.3 z"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Polygon 151"
+         style="fill:none;fill-rule:evenodd;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1.35,3.6 2,3.2 h 1 l 0.65,0.4"
+         inkstitch:running_stitch_length_mm="0.5"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="Polygon 151"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Polygon 154"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2,3.2 2.1,3 H 2.9 L 3,3.2"
+         inkstitch:running_stitch_length_mm="0.5"
+         sodipodi:nodetypes="cccc"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         d="M 0.9727519,0.5730023 C 0.9093704,0.25822038 0.9820159,-0.06868601 1.172191,-0.3269987 L 1.17163,-0.527 h -1.2 l -5.61e-4,0.2000013 c 0.19017468,0.25831269 0.26282061,0.58521908 0.1994391,0.900001"
+         id="Arc 2_(2)"
+         transform="matrix(-1 0 0 1 3.07163 2.427)"
+         style="visibility:visible;fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cccccc"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Line 397"
+         style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.1,1.9 V 1.5 H 1.9 v 0.4"
+         sodipodi:nodetypes="cccc"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         d="m 1,0.5730001 c 0.3000002,-0.39999964 0.8999998,-0.39999964 1.2,0"
+         id="Arc 70"
+         transform="translate(0.9, 0.927)"
+         style="visibility:visible;fill:none;fill-opacity:1;stroke:#2f3032;stroke-width:0.0240703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+    </g>
+    <g
+       id="Griff"
+       style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         id="Rectangle 1196"
+         style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1.25,4.4000001 h 2.5 v 0.2 h -2.5 z"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Line 400"
+         style="display:inline;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#2f3032;stroke-width:0.0240703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.75,4.6 V 5.35 L 3.35,5.8 H 3.2 V 6 H 1.8 V 5.8 H 1.65 L 1.25,5.35 V 4.6"
+         transform="matrix(-1 0 0 1 5 0)"
+         sodipodi:nodetypes="cccccccccc"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Line 402"
+         style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1.6,4.6 V 5.35 L 1.95,5.8"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Line 403"
+         style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1.75,4.6 v 0.7 l 0.4,0.5"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Line 401"
+         style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1.8,5.8000002 H 3.2"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Line 404"
+         style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2.2,6 v 0.35 l 0.15,1e-7 0.3,-1e-7 H 2.8 V 6"
+         inkstitch:running_stitch_length_mm="0.5"
+         sodipodi:nodetypes="cccccc"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="path64"
+         style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.7594691,4.8873088 H 3.89346"
+         inkstitch:running_stitch_length_mm="0.5"
+         sodipodi:nodetypes="cc"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Rectangle 1204"
+         style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="m 3.8999901,4.6497598 h 0.3 v 1.1502399 h -0.3 z"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="path1"
+         style="visibility:visible;display:inline;fill:#2f3032;fill-opacity:1;fill-rule:evenodd;stroke:#2f3032;stroke-width:1.01213351;stroke-dasharray:none;stroke-opacity:1"
+         d="m 332.62631,179.25006 v 36.35359 0.10709 z"
+         transform="scale(0.0264583, 0.0264583)"
+         inkstitch:max_stitch_length_mm="1.5"
+         inkstitch:expand_mm="-0.1"
+         inkstitch:fill_underlay_inset_mm="0.1"
+         inkstitch:row_spacing_mm="0.4"
+         inkstitch:angle="90"
+         inkstitch:fill_underlay_angle="90"
+         sodipodi:nodetypes="cccc"
+         inkstitch:stroke_method="running_stitch"
+         inkstitch:fill_underlay_row_spacing_mm=""
+         inkstitch:fill_underlay="True" />
+      <path
+         d="m 4.1999995,5.5999949 c 0.250001,0.25 0.750001,-0.2 2.0000005,0.099999 0.950164,0.190034 2.1025597,0.1778363 2.6007355,0.00733 0.1572053,-0.053805 0.249264,-0.1233745 0.2492643,-0.2073265 l 3e-7,-0.5499975 C 9.05,4.8660471 8.9579431,4.7964779 8.8007412,4.7426728 8.3025682,4.5721643 7.1501671,4.5599659 6.2,4.7499985 4.95,5.05 4.45,4.6 4.2,4.85"
+         id="Beziercurve 214"
+         style="display:inline;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#2f3032;stroke-width:0.0240703;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm="0.5"
+         sodipodi:nodetypes="cccccccc"
+         inkstitch:stroke_method="running_stitch" />
+      <path
+         id="Line 457"
+         style="fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.5701287,5.5500002 H 3.9000001"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+    </g>
+    <g
+       id="Tropfen"
+       style="visibility:visible;fill:none;stroke:#2f3032;stroke-width:0.0240703;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="M 2.4999995,6.999999 C 2.15,7.6 2.3,7.9 2.4999995,7.899999 c 0.1999995,-1e-6 0.3499995,-0.300001 0,-0.9 z"
+         id="Beziercurve 67_(1)"
+         style="visibility:visible;fill:none;fill-rule:evenodd;stroke:#2f3032;stroke-width:0.0240703;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccc"
+         inkstitch:running_stitch_length_mm="0.5"
+         inkstitch:stroke_method="running_stitch" />
+    </g>
+  </g>
+</svg>
